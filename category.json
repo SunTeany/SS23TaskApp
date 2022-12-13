@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "Home",
+        "icon" : "sunny",
+        "badge" : "2"
+    },
+    {
+        "name" : "Personal",
+        "icon" : "star",
+        "badge" : "2"
+    },
+    {
+        "name" : "Planned",
+        "icon" : "next_plan",
+        "badge" : "1"
+    },
+    {
+        "name" : "Assign to me",
+        "icon" : "person",
+        "badge" : "1"
+    },
+    {
+        "name" : "Tasks",
+        "icon" : "splitscreen",
+        "badge" : "1"
+    }
+]
